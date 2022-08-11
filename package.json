@@ -1,0 +1,16 @@
+{
+  "name": "@rxan/simple-file-logger",
+  "version": "1.4.0",
+  "description": "A light and performant file logger",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "logger",
+    "file",
+    "easy-file-logger",
+    "rxan",
+    "@rxan"
+  ],
+  "author": "rxan",
+  "license": "MIT"
+}
