@@ -1,6 +1,6 @@
 {
   "name": "@rxan/simple-file-logger",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A light and performant file logger",
   "main": "index.js",
   "scripts": {},
@@ -12,5 +12,10 @@
     "@rxan"
   ],
   "author": "rxan",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rxann/simple-file-logger/issues"
+  },
+  "homepage": "https://github.com/Rxann/simple-file-logger",
+  "readme": "https://github.com/Rxann/simple-file-logger/blob/main/readme.md"
 }
