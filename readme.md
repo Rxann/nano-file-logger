@@ -11,7 +11,7 @@ I designed this library with ease of use in mind.
 The time logged is automatically written to a file.
 
 ```
-'''
+
 // Import the library
 const FileLogger = require('file-logger');
 
