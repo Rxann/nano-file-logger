@@ -20,8 +20,15 @@ const log = new FileLogger('log.txt');
 
 // Simply use the logger
 log.add('Hello world!');
+
+// Retreive the log
+log.retrieve(); // This function will return an array with all the logs in a file
+
+```
+
 ```
 
 ## Output Format
 
 Timestamp - Message
+```
