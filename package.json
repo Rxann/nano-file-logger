@@ -1,6 +1,6 @@
 {
   "name": "nano-file-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A light and performant file logger",
   "main": "index.js",
   "scripts": {},
@@ -15,8 +15,8 @@
   "author": "rxan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rxann/simple-file-logger/issues"
+    "url": "https://github.com/Rxann/nano-file-logger/issues"
   },
-  "homepage": "https://github.com/Rxann/simple-file-logger",
-  "readme": "https://github.com/Rxann/simple-file-logger/blob/main/readme.md"
+  "homepage": "https://github.com/Rxann/nano-file-logger",
+  "readme": "https://github.com/Rxann/nano-file-logger/blob/main/readme.md"
 }
