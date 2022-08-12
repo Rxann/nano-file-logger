@@ -9,7 +9,8 @@
     "file",
     "easy-file-logger",
     "rxan",
-    "@rxan"
+    "@rxan",
+    "logging"
   ],
   "author": "rxan",
   "license": "MIT",
