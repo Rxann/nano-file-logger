@@ -1,6 +1,6 @@
 {
   "name": "nano-file-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light and performant file logger",
   "main": "index.js",
   "scripts": {},

@@ -1,4 +1,4 @@
-# simple-file-logger
+# nano-file-logger
 
 An easy approach to file logging!
 
