@@ -13,6 +13,14 @@ class FileLogger {
       console.log(err);
     }
   }
+  retrieve() {
+    try {
+      return fs.readFileSync(this.path).split("\n");
+    } catch {
+      console.log("Error reading file");
+      return null;
+    }
+  }
 }
 
 module.exports = FileLogger;
