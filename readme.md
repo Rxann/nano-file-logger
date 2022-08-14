@@ -6,6 +6,11 @@ An easy approach to file logging!
 
 I designed this library with ease of use in mind.
 
+## Installation
+
+Run the command:
+`npm install nano-file-logger`
+
 ## Usage
 
 The time logged is automatically written to a file.
